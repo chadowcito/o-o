@@ -17,7 +17,7 @@ function Projects() {
                   <div className="card h-100 shadow-sm">
                      <img src="https://ayuda.lirmi.com/hc/article_attachments/9578681726099/matri6.png" className="card-img-top" alt="Colaboracion con Microsoft" />
                      <div className="card-body">
-                        <h5 className="card-title">Colaboración con Microsoft</h5>
+                        <h5 className="card-title">Sistema de matricula Universitaria</h5>
                         <p className="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim quidem itaque vel officiis soluta maxime aperiam provident expedita dolores omnis saepe sequi dolorem, commodi quam animi perspiciatis porro natus aspernatur.</p>
                      </div>
                   </div>
