@@ -6,7 +6,7 @@ function Projects() {
             <div className="row row-cols-1 row-cols-md-2 g-4">
                <div className="col">
                   <div className="card h-100 shadow-sm">
-                     <img src="https://placehold.co/600x400/png" className="card-img-top" alt="Rediseñar la SUNAT" />
+                     <img src="https://media.istockphoto.com/id/1279024398/es/foto/chef-perro-cortando-pizza.jpg?s=612x612&w=0&k=20&c=XM2P7ZEDjkgYRB4MsJY6AVaIe6CYCCHQxvbtPeWAW2Q=" className="card-img-top" alt="Proyecto Papa Jhons" />
                      <div className="card-body">
                         <h5 className="card-title">Proyecto de almacen Papa Jhons</h5>
                         <p className="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, quisquam labore. Itaque, eligendi sequi dolores, molestias ab, optio repellat amet adipisci voluptatum recusandae harum consequuntur? Eaque sunt nostrum perspiciatis accusantium!</p>
